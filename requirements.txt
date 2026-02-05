@@ -1,0 +1,16 @@
+streamlit
+tensorflow
+opencv-python-headless
+numpy
+pillow
+pytesseract
+PyPDF2
+SpeechRecognition
+fpdf
+langdetect
+transformers
+torch
+gTTS
+groq
+streamlit-webrtc
+av
